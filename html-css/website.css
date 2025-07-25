@@ -1,0 +1,130 @@
+.color{
+    border: solid blue 2px;
+    height: 60px;
+}
+
+#color{
+    border: solid red 2px;
+}
+.main{
+    border: solid black 2px;
+    height: 100vh;
+    display: flex;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+.second{
+    border: solid yellow 2px;
+    height: 100vh;
+    width: 25%;
+    padding: 3%;
+
+}
+.Quick{
+    border: solid blue 2px;
+    padding-left: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.Dashboard{
+    display: flex;
+    text-align: center;
+    border: solid yellow 2px;
+    align-items: center;
+    width: 60%;
+    margin-top: 5%;
+/* }
+/* .icon{
+    /* border: solid blue 2px; */
+    /* font-size: x-large; */
+} */ */
+.text{
+    border: solid rgb(66, 83, 66) 2px;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #555;
+    font-size: 14px;
+    font-weight: bold;
+}
+.third{
+    border: solid green 2px;
+    height: 100vh;
+    width: 65%;
+    margin-left: 3%;
+}
+.header1{
+    border: solid pink 2px;
+    height: 5vh;
+}
+.Enrollment{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    letter-spacing: 0.5px;
+    padding-left: 10px;
+}
+.step1{
+    display: flex;
+    padding-left: 2%;
+    padding-top: 2%;
+    column-gap: 15px;
+    
+}
+.kp{
+    /* border: solid red 2px; */
+    height: 85vh;
+    width: 25%;
+}
+.rhule{
+    border: solid rgb(201, 133, 7) 2px;
+    height: 50vh;
+    width: 70%;
+}
+.step-menu{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto;
+}
+.step{
+    border: 1px solid #52c5c9;
+    /* border-left: 4px solid transparent; */
+    padding: 12px 16px;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    color: #333;
+    transition: all 0.3s ease;
+    /* box-shadow: 0 1px 3px rgb(0, 0, 0) */
+}
+.step span{
+    display: block;
+    font-size: 13px;
+    color: #555;
+    margin-top: 2px;
+}
+.abena{
+    border: solid gold 2px;
+    height: 8vh;
+}
+.Review{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(14, 13, 13);
+    font-weight: bold;
+    padding-left: 1%;
+}
+.p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(110, 108, 108);
+    padding-left: 1%;
+    text-align: center;
+}
